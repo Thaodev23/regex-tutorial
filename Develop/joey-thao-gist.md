@@ -1,10 +1,14 @@
-# Title (replace with your title)
+# Joey Thao's Regex
 
-Introductory paragraph (replace this with your text)
+Regex expressions can be a very usefull components when it comes down to searching specific patterns. For example, regex expression can reduce the time 
+of writing codes by not having the addition of any if statements. Overall regex expression are vital when it comes down to searching certain pattern that matches.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Below is the regex expression that is going to be explain. 
+/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+
+The regex expression above is indicating 
 
 ## Table of Contents
 
